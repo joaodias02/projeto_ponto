@@ -1,0 +1,3 @@
+ 
+ ID(PK)
+nome (string)
